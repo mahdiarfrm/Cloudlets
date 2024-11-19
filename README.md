@@ -4,15 +4,15 @@ Cloudlets is a small Terraform project for provisioning KVM virtual machines on 
 
 ## Requirements
 
-•	Ubuntu operating system
-•	Bridged networking set up
-•	Terraform and terraform-provider-libvirt
+*	Ubuntu operating system
+*	Bridged networking set up
+*	Terraform and terraform-provider-libvirt
 
 ## Features
 
-•	Works both locally and remotely
-•	Simplifies VM provisioning using Terraform
-•	Automated setup with a wizard script
+*	Works both locally and remotely
+*	Simplifies VM provisioning using Terraform
+*	Automated setup with a wizard script
 
 ## Usage
 
